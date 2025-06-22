@@ -3,9 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Ednut001">
-    <img src="https://readme-typing-svg.demolab.com?font=monospace&size=17&duration=4000&pause=1000&center=true&vCenter=true&width=460&lines=Hey+there+👋;+I'm+Ednut;+WhatsApp+Bot+Developer+%7C+Automation+Ninja" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=monospace&size=17&duration=4000&pause=1000&center=true&vCenter=true&width=460&lines=Hey+there+👋;+I'm+Ednut;+WhatsApp+Bot+Developer+%7C+Automation+Ninja" alt="Typing SVG" />
 </p>
 
 ---
