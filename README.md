@@ -1,9 +1,13 @@
 <p align="center">
-  <img src="https://files.catbox.moe/ptv2f4.jpg" alt="Ednut Logo" width="130" />
+  <img src="https://files.catbox.moe/15pinf.png" alt="Ednut Logo" width="140" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=monospace&size=17&duration=4000&pause=1000&center=true&vCenter=true&width=460&lines=Hey+there+👋;+I'm+Ednut;+WhatsApp+Bot+Developer+%7C+Automation+Ninja" alt="Typing SVG" />
+  <img src="https://img.shields.io/badge/Bot%20Developer-ARCH--MD-black?style=flat&logo=github" />
+  <img src="https://img.shields.io/badge/Node.js-Backend-green?style=flat&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/WhatsApp-Bot%20Dev-25D366?style=flat&logo=whatsapp" />
+  <img src="https://img.shields.io/badge/Self--Taught-100%25-blue?style=flat&logo=codewars" />
+  <img src="https://img.shields.io/badge/Born%20in-Nigeria-008751?style=flat&logo=nigeria&logoColor=white" />
 </p>
 
 ---
